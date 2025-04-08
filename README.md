@@ -6,7 +6,7 @@ Analysis of RNA sequencing data from Shih et al., 2017 focusing on AML model mic
 ## Overview
 
 This repository contains an R Markdown analysis pipeline for generating heatmaps from RNA sequencing data of Acute Myeloid Leukemia samples. The analysis uses [refine.bio](https://www.refine.bio/) processed data to examine gene expression patterns across 19 AML model mice samples.
-
+I want to know more about it.
 ## Dependencies
 
 * R environment with required packages:
